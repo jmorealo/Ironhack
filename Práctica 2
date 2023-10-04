@@ -1,0 +1,22 @@
+<head>
+    <title>Práctica 1</title>
+</head>
+
+<body>
+    <h1>Mt07 2021</h1>
+
+    <p>Antigua Mt07:</p>
+    <img src="https://imgs.search.brave.com/oJib94fsfN_xU5U6sKhT94sak_QK3HG6xV-iiZUGKiA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bW90b2ZpY2hhcy5j/b20vaW1hZ2VzL2Nh/Y2hlLzAxLXlhbWFo/YS1tdC0wNy0yMDE5/LXBlcmZpbC1ncmlz/LTM5OC1hLW1vYmls/ZS5qcGc" alt="Antigua Mt07">
+     <p>Nueva Mt07</p>
+    <img src="https://imgs.search.brave.com/Jexpha_P9I4AJwTY9xTuIGnqngiV0AxAuwdW4a5ABUo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4y/LnlhbWFoYS1tb3Rv/ci5ldS9wcm9kL3By/b2R1Y3QtYXNzZXRz/LzIwMjIvTVQwNy8y/MDIyLVlhbWFoYS1N/VDA3LUVVLUN5YW5f/U3Rvcm0tU3R1ZGlv/LTAwMS0wMy5qcGc" alt="Nueva Mt07" width="500">
+
+    <h2>Actualización de un segmento</h2>
+
+    <p>Después de su lanzamiento en 2014, este modelo, que fue la reina de las motos naked medio y del A2, sufre una actulaización estetitca. </p>
+
+    
+
+    <a href="https://www.ejemplo.com">Visitar página Mt07</a>
+</body>
+
+</html>
